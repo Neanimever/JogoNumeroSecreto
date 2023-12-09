@@ -4,7 +4,7 @@
 
 ### Neste projeto, eu somente desenvolvi o código em JavaScript. O HTML e o CSS foram feitos pela instituição Alura.
 
-## Linguagens Utilizadas
+## Linguagem Utilizada
 
 - JavaScript
 
